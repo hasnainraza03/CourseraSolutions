@@ -10,4 +10,7 @@ Solution Link: https://hasnainraza03.github.io/CourseraSolutions/Module3
 Module 4:
 Solution Link: https://hasnainraza03.github.io/CourseraSolutions/Module4
 
+Module 5:
+Solution Link: https://hasnainraza03.github.io/CourseraSolutions/Module5
+
 
